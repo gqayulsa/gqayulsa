@@ -1,4 +1,10 @@
-## Hi there 👋
+- 早上好中午好晚上好，这里是GQ_Ayulsa(阿尤尔萨)🤓☝️
+- 目前是一名就读不入流院校的大一大学牲🥲
+- 正在学习Python,C++,HTML🤔
+- 很高兴认识你~✨✨
+
+<!---
+GQl12y/GQl12y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **gqayulsa/gqayulsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
